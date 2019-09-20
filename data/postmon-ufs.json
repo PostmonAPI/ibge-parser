@@ -1,0 +1,164 @@
+[
+  {
+    "sigla": "RO",
+    "codigo_ibge": "11",
+    "nome": "Rond\u00f4nia",
+    "area_km2": "237765.233"
+  },
+  {
+    "sigla": "AC",
+    "codigo_ibge": "12",
+    "nome": "Acre",
+    "area_km2": "164123.738"
+  },
+  {
+    "sigla": "AM",
+    "codigo_ibge": "13",
+    "nome": "Amazonas",
+    "area_km2": "1559168.117"
+  },
+  {
+    "sigla": "RR",
+    "codigo_ibge": "14",
+    "nome": "Roraima",
+    "area_km2": "224273.831"
+  },
+  {
+    "sigla": "PA",
+    "codigo_ibge": "15",
+    "nome": "Par\u00e1",
+    "area_km2": "1245759.305"
+  },
+  {
+    "sigla": "AP",
+    "codigo_ibge": "16",
+    "nome": "Amap\u00e1",
+    "area_km2": "142470.762"
+  },
+  {
+    "sigla": "TO",
+    "codigo_ibge": "17",
+    "nome": "Tocantins",
+    "area_km2": "277720.404"
+  },
+  {
+    "sigla": "MA",
+    "codigo_ibge": "21",
+    "nome": "Maranh\u00e3o",
+    "area_km2": "329642.17"
+  },
+  {
+    "sigla": "PI",
+    "codigo_ibge": "22",
+    "nome": "Piau\u00ed",
+    "area_km2": "251616.823"
+  },
+  {
+    "sigla": "CE",
+    "codigo_ibge": "23",
+    "nome": "Cear\u00e1",
+    "area_km2": "148894.757"
+  },
+  {
+    "sigla": "RN",
+    "codigo_ibge": "24",
+    "nome": "Rio Grande do Norte",
+    "area_km2": "52809.602"
+  },
+  {
+    "sigla": "PB",
+    "codigo_ibge": "25",
+    "nome": "Para\u00edba",
+    "area_km2": "56467.239"
+  },
+  {
+    "sigla": "PE",
+    "codigo_ibge": "26",
+    "nome": "Pernambuco",
+    "area_km2": "98068.021"
+  },
+  {
+    "sigla": "AL",
+    "codigo_ibge": "27",
+    "nome": "Alagoas",
+    "area_km2": "27843.295"
+  },
+  {
+    "sigla": "SE",
+    "codigo_ibge": "28",
+    "nome": "Sergipe",
+    "area_km2": "21926.908"
+  },
+  {
+    "sigla": "BA",
+    "codigo_ibge": "29",
+    "nome": "Bahia",
+    "area_km2": "564722.611"
+  },
+  {
+    "sigla": "MG",
+    "codigo_ibge": "31",
+    "nome": "Minas Gerais",
+    "area_km2": "586521.121"
+  },
+  {
+    "sigla": "ES",
+    "codigo_ibge": "32",
+    "nome": "Espirito Santo",
+    "area_km2": "46074.444"
+  },
+  {
+    "sigla": "RJ",
+    "codigo_ibge": "33",
+    "nome": "Rio de Janeiro",
+    "area_km2": "43750.423"
+  },
+  {
+    "sigla": "SP",
+    "codigo_ibge": "35",
+    "nome": "S\u00e3o Paulo",
+    "area_km2": "248219.481"
+  },
+  {
+    "sigla": "PR",
+    "codigo_ibge": "41",
+    "nome": "Paran\u00e1",
+    "area_km2": "199305.236"
+  },
+  {
+    "sigla": "SC",
+    "codigo_ibge": "42",
+    "nome": "Santa Catarina",
+    "area_km2": "95730.921"
+  },
+  {
+    "sigla": "RS",
+    "codigo_ibge": "43",
+    "nome": "Rio Grande do Sul",
+    "area_km2": "281707.151"
+  },
+  {
+    "sigla": "MS",
+    "codigo_ibge": "50",
+    "nome": "Mato Grosso do Sul",
+    "area_km2": "357145.535"
+  },
+  {
+    "sigla": "MT",
+    "codigo_ibge": "51",
+    "nome": "Mato Grosso",
+    "area_km2": "903206.997"
+  },
+  {
+    "sigla": "GO",
+    "codigo_ibge": "52",
+    "nome": "Goi\u00e1s",
+    "area_km2": "340125.715"
+  },
+  {
+    "sigla": "DF",
+    "codigo_ibge": "53",
+    "nome": "Distrito Federal",
+    "area_km2": "5760.783"
+  }
+]
