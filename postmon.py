@@ -21,7 +21,7 @@ def ufs():
         }
 
 
-def municipios():
+def cidades():
     for line in _read('data/AR_BR_MUN_2018.csv'):
         yield {
             'codigo_ibge_uf': line['CD_GCUF'],
@@ -33,11 +33,11 @@ def municipios():
 
 
 def main():
-    with open('data/postmon-ufs.json', 'w') as f:
+    with open('data/postmon/ufs.json', 'w') as f:
         json.dump(list(ufs()), f, indent=2)
 
-    with open('data/postmon-municipios.json', 'w') as f:
-        json.dump(list(municipios()), f, indent=2)
+    with open('data/postmon/cidades.json', 'w') as f:
+        json.dump(list(cidades()), f, indent=2)
 
 
 if __name__ == '__main__':
